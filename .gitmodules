@@ -1,0 +1,3 @@
+[submodule "GameArchiveTest"]
+	path = GameArchiveTest
+	url = https://github.com/HelloBie/GameArchiveTest.git
